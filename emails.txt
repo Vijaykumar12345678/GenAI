@@ -1,0 +1,36 @@
+From: alice@example.com
+To: bob@example.com
+Body: Dear Bob, I wanted to remind you about the meeting scheduled for tomorrow at 10 AM. Please let me know if you can make it.
+End
+
+From: charlie@example.com
+To: diana@example.com
+Body: Hi Diana, I hope this email finds you well. Could you please send me the latest project report by the end of the week? Thanks!
+End
+
+From: elizabeth@example.com
+To: frank@example.com
+Body: Hello Frank, Just a quick note to congratulate you on your recent promotion. Well deserved!
+End
+
+From: george@example.com
+To: hannah@example.com
+Body: Hi Hannah, Can we schedule a call next week to discuss the new marketing strategy? Let me know your availability.
+End
+
+From: isaac@example.com
+To: julia@example.com
+Body: Dear Julia, Thank you for your assistance during the recent project. Your input was invaluable.
+End
+
+From: karen@example.com
+To: liam@example.com
+Body: Hello Liam, I noticed a discrepancy in the recent invoices. Could you review them and let me know if you find anything unusual?
+End
+
+From: mary@example.com
+To: noah@example.com
+Body: Hi Noah, Please find attached the latest sales report. Let me know if you have any questions or need clarification.
+End
+
+

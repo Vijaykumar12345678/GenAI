@@ -1,0 +1,22 @@
+Product: Laptop
+Review: This laptop has excellent performance but could improve on battery life.
+END
+Product: Wireless Earbuds
+Review: The sound quality is clear, and the noise cancellation works great. Very satisfied!
+END
+
+Product: Jacket
+Review:The bomber jacket is a timeless classic that combines style and comfort effortlessly. Its durable material ensures longevity, while the snug fit and ribbed cuffs provide warmth during cooler seasons. The versatile design pairs well with casual and semi-formal outfits, making it a wardrobe essential. With practical features like zippered pockets and a lightweight feel, it’s both functional and fashionable. Overall, the bomber jacket is a perfect blend of utility and trend, offering great value for its price.
+END
+Product: Ear phone
+Review: The product quality is worse the right ear phone was damaged with in a month
+END
+Product: Air Conditioner
+Review: The delivery was quick and the AC was delivered 3 days before the date which is impressive.
+I got sms about installation booking on the same day and AC was installed next day.
+Installation was conducted by two teenage boys who were quiet inexperienced and took almost 5 hours in the whole process, they did try to sell their ODU stand @ ₹850 but I had already arranged iron angle stand made by local iron works shop for about half the price and they (installation guys) installed the ODU on my own stand.
+
+They drilled a hole in the wall for the copper pipes and did not fill it with anything to shut it so I'll have to close it myself with wall putty or something else.
+
+The installation team did not overcharge me for anything as I arranged everything on my own for less than half of their price.
+END

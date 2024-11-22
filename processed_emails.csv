@@ -1,0 +1,15 @@
+From,To,Summary,Translated Summary
+alice@example.com,bob@example.com,"This email is a reminder to Bob about a meeting scheduled for tomorrow at 10 AM and requests confirmation of his attendance.
+","ಇದು ಬಾಬ್‌ಗೆ ನಾಳೆ ಬೆಳಿಗ್ಗೆ 10 ಗಂಟೆಗೆ ನಿಗದಿಯಾಗಿರುವ ಸಭೆಯ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವ ಇಮೇಲ್ ಆಗಿದ್ದು, ಅವರ ಉಪಸ್ಥಿತಿಯ ಬಗ್ಗೆ ದೃಢೀಕರಣವನ್ನು ಕೋರುತ್ತದೆ."
+charlie@example.com,diana@example.com,"The email requests Diana to send the latest project report by the end of the week.
+",ಈ ಇಮೇಲ್ ಡಯಾನಾ ಅವರಿಂದ ವಾರಾಂತ್ಯದೊಳಗೆ ಇತ್ತೀಚಿನ ಯೋಜನಾ ವರದಿಯನ್ನು ಕಳುಹಿಸುವಂತೆ ವಿನಂತಿಸುತ್ತದೆ.
+elizabeth@example.com,frank@example.com,"The email congratulates Frank on his well-deserved promotion.
+",ಈ ಇಮೇಲ್ ಫ್ರಾಂಕ್ ಅವರ ಅರ್ಹವಾದ ಉನ್ನತೀಕರಣಕ್ಕೆ ಅಭಿನಂದಿಸುತ್ತದೆ.
+george@example.com,hannah@example.com,"The email proposes a call next week to discuss the new marketing strategy and asks for Hannah's availability.
+",ಈ ಇಮೇಲ್ ಹೊಸ ಮಾರ್ಕೆಟಿಂಗ್ ತಂತ್ರವನ್ನು ಚರ್ಚಿಸಲು ಮುಂದಿನ ವಾರ ಕರೆ ಮಾಡಲು ಪ್ರಸ್ತಾಪಿಸುತ್ತದೆ ಮತ್ತು ಹನ್ನಾ ಅವರ ಲಭ್ಯತೆಯನ್ನು ಕೇಳುತ್ತದೆ.
+isaac@example.com,julia@example.com,"The email expresses gratitude to Julia for her invaluable assistance on a recent project.
+",ಈ ಇಮೇಲ್ ಇತ್ತೀಚಿನ ಯೋಜನೆಯಲ್ಲಿ ಜೂಲಿಯಾ ಅವರ ಅಮೂಲ್ಯ ಸಹಾಯಕ್ಕಾಗಿ ಕೃತಜ್ಞತೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ.
+karen@example.com,liam@example.com,"The email asks Liam to review recent invoices for discrepancies.
+",ಈ ಇಮೇಲ್ ಇತ್ತೀಚಿನ ಬಿಲ್‌ಗಳಲ್ಲಿನ ವ್ಯತ್ಯಾಸಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸುವಂತೆ ಲಿಯಾಮ್‌ಗೆ ಕೇಳುತ್ತದೆ.
+mary@example.com,noah@example.com,"The email transmits the latest sales report and offers assistance if needed.
+",ಈ ಇಮೇಲ್ ಇತ್ತೀಚಿನ ಮಾರಾಟ ವರದಿಯನ್ನು ಕಳುಹಿಸುತ್ತದೆ ಮತ್ತು ಅಗತ್ಯವಿದ್ದರೆ ಸಹಾಯವನ್ನು ನೀಡುತ್ತದೆ.
